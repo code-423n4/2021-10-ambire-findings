@@ -1,0 +1,9 @@
+{
+  "contest": "Ambire contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`QuickAccManager.sol#cancel()` Wrong `hashTx` makes it impossible to cancel a scheduled transaction",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2021-10-ambire-findings/issues/1"
+}
