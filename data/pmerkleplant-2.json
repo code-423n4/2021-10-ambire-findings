@@ -1,0 +1,9 @@
+{
+  "contest": "Ambire contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412Fc011D74C26E3CA768aB6224643702313",
+  "risk": "3",
+  "title": "If `address(0)` is set as privileged in `Identity.sol`, all funds can be drained",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-10-ambire-findings/issues/2"
+}
