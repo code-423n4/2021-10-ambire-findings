@@ -1,0 +1,9 @@
+{
+  "contest": "Ambire contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Safe some gas on the nonce increment",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2021-10-ambire-findings/issues/14"
+}
