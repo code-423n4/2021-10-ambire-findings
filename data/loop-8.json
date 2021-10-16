@@ -1,0 +1,9 @@
+{
+  "contest": "Ambire contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "1",
+  "title": "IdentityFactory.withdraw ERC20 missing return value check",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2021-10-ambire-findings/issues/8"
+}
