@@ -1,0 +1,9 @@
+{
+  "contest": "Ambire contest",
+  "handle": "cryptojedi88",
+  "address": "0xCa4ce0873Bb676f6157b2246691255731A02d172",
+  "risk": "G",
+  "title": "Call deposit() in the WETH contract",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-10-ambire-findings/issues/43"
+}
